@@ -1,0 +1,6 @@
+[submodule "chi-chat-server"]
+	path = chi-chat-server
+	url = https://github.com/konec206/chi-chat-server.git
+[submodule "chi-chat-client"]
+	path = chi-chat-client
+	url = https://github.com/konec206/chi-chat-client.git
