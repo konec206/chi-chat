@@ -1,6 +1,10 @@
 # chi-chat
 
 ### Init the submodules : git submodule update --init --recursive
+
 ### Pull all the submodules : git submodule update --recursive --remote
-### Push all the submodules : git push --recurse-submodules=on-demand
-### Add changes for the submodules : git submodule foreach 'git add .'
+### Add changes for the submodules : git submodule foreach 'git add .'
+### Commit all changes for the submodules : git submodule foreach 'git commit -am "[message]"'
+### Commit changes for the master repository : git commit -am "[message]"
+### Push all the submodules and the master repository : git push --recurse-submodules=on-demand
+
