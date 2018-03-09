@@ -10,3 +10,5 @@
 ### Commit changes for the master repository : git commit -am "[message]"
 ### Push all the submodules and the master repository : git push --recurse-submodules=on-demand
 
+
+### TODO : schema conception
