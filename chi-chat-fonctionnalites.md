@@ -38,3 +38,12 @@
 
 * Déploiement sur serveur distant
  
+## Fonctionnalités finales
+
+* Inscription
+* Connexion
+* Création de chats privés
+* Envoi de demande de contact
+* réponse au demandes de contact
+* création de chat privés
+* Discussion à plusieurs sur des chat publics
