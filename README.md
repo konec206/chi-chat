@@ -1,5 +1,7 @@
 # chi-chat
 
+## Git link https://github.com/konec206/chi-chat
+
 ### Init the submodules : git submodule update --init --recursive
 
 ### Pull all the submodules : git submodule update --recursive --remote
